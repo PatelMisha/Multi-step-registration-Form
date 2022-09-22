@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C6499C0428DC9EAB001153D8 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		C6499C0528DC9EC4001153D8 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		C6499C0728DC9FC4001153D8 /* scripts.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = scripts.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C6499BFD28DC9E8D001153D8 = {
+			isa = PBXGroup;
+			children = (
+				C6499C0728DC9FC4001153D8 /* scripts.js */,
+				C6499C0528DC9EC4001153D8 /* style.css */,
+				C6499C0428DC9EAB001153D8 /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C6499BFE28DC9E8D001153D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+			};
+			buildConfigurationList = C6499C0128DC9E8D001153D8 /* Build configuration list for PBXProject "Multi-step registration" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C6499BFD28DC9E8D001153D8;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C6499C0228DC9E8D001153D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C6499C0328DC9E8D001153D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C6499C0128DC9E8D001153D8 /* Build configuration list for PBXProject "Multi-step registration" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C6499C0228DC9E8D001153D8 /* Debug */,
+				C6499C0328DC9E8D001153D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C6499BFE28DC9E8D001153D8 /* Project object */;
+}
